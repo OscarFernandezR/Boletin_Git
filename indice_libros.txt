@@ -2,4 +2,8 @@ Capítulo 1: Introducción
 Capítulo 2: Los tres cerditos
 Capítulo 3: Caperucita roja
 Capítulo 4: La bella y la bestia
+<<<<<<< HEAD:indice.txt
 Capitulo 5: Forzen
+=======
+Capítulo 5: Forzen
+>>>>>>> 5d0e4c3:indice_libros.txt
